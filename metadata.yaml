@@ -1,0 +1,63 @@
+_repo: The-Emerald-City-of-Oz_41667
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Neill, John R. (John Rea)
+    alias: Neill, John Rea
+    birthdate: 1877
+    deathdate: 1943
+    gutenberg_agent_id: '26521'
+    url: http://www.gutenberg.org/2009/agents/26521
+    wikipedia: http://en.wikipedia.org/wiki/John_R._Neill
+covers:
+- cover_type: archival
+  image_path: 41667-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Baum, L. Frank (Lyman Frank)
+    aliases:
+    - Baum, Lyman Frank
+    - Fitzgerald, Capt. Hugh
+    - Akers, Floyd
+    - Van Dyne, Edith
+    - Fitzgerald, Hugh
+    - Cooke, John Estes
+    - Bancroft, Laura
+    - Metcalf, Suzanne
+    birthdate: 1856
+    deathdate: 1919
+    gutenberg_agent_id: '42'
+    url: http://www.gutenberg.org/2009/agents/42
+    wikipedia: http://en.wikipedia.org/wiki/L._Frank_Baum
+description: The Nome King, Roquat the Red, makes plans to dig a tunnel under the
+  Deadly Desert into the Land of Oz where he will take back his Magic Belt from Princess
+  Ozma. Meanwhile, Dorothy Gale brings her Aunt Em and Uncle Henry to Oz to live,
+  their Kansas farm having been foreclosed. The Tin Woodman tells Dorothy and the
+  Wizard that Ozma has learned of the Nome King's plan through her Magic Picture.
+  They head back to the Emerald City picking up the Scarecrow and Jack Pumpkinhead
+  on the way. At the Forbidden Fountain in the Emerald City, all the enemies drink
+  of the Water of Oblivion and are sent home by the Magic Belt.
+gutenberg_issued: '2012-12-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41667'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Good and evil -- Juvenile fiction'
+- !lcsh 'Aunts -- Juvenile fiction'
+- !lcsh 'Uncles -- Juvenile fiction'
+- !lcsh 'Magic -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Battles -- Juvenile fiction'
+- !lcsh 'Princess Ozma (Fictitious character) -- Juvenile fiction'
+- !lcsh 'Oz (Imaginary place) -- Juvenile fiction'
+- !lcsh 'Animals, Mythical -- Juvenile fiction'
+- !lcsh 'Fantasy literature'
+- !lcsh 'Kings and rulers -- Juvenile fiction'
+- !lcsh 'Voyages and travels -- Juvenile fiction'
+- !lcsh 'Gale, Dorothy (Fictitious character) -- Juvenile fiction'
+title: The Emerald City of Oz
+url: http://www.gutenberg.org/ebooks/41667
